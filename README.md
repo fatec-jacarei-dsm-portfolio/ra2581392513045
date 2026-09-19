@@ -11,7 +11,9 @@ Repositório do aluno **Pedro Claudino Nunes**.
 ---
 ## Vídeos de Apresentação
 2DSM🎤 [Pitch de Apresentação (vídeo)](https://fatecspgov-my.sharepoint.com/:v:/r/personal/pedro_nunes11_fatec_sp_gov_br/Documents/Ficheiros%20de%20Conversa%20do%20Microsoft%20Teams/Grava%C3%A7%C3%A3o%20Portifolio.webm?csf=1&web=1&e=dA3sRW)
+
 4DSM🎤 [(EM BREVE)]()
+
 6DSM🎤 [(EM BREVE)]()
 
 
