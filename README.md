@@ -8,7 +8,12 @@ Repositório do aluno **Pedro Claudino Nunes**.
 
 ### Portfólio Online  
 🔗 [Acesse o Portfólio](https://peclaudino2006.github.io/ra2581392513045/)
-🎤 [Pitch de Apresentação (vídeo)](https://fatecspgov-my.sharepoint.com/:v:/r/personal/pedro_nunes11_fatec_sp_gov_br/Documents/Ficheiros%20de%20Conversa%20do%20Microsoft%20Teams/Grava%C3%A7%C3%A3o%20Portifolio.webm?csf=1&web=1&e=dA3sRW)
+---
+## Vídeos de Apresentação
+2DSM🎤 [Pitch de Apresentação (vídeo)](https://fatecspgov-my.sharepoint.com/:v:/r/personal/pedro_nunes11_fatec_sp_gov_br/Documents/Ficheiros%20de%20Conversa%20do%20Microsoft%20Teams/Grava%C3%A7%C3%A3o%20Portifolio.webm?csf=1&web=1&e=dA3sRW)
+4DSM🎤 [Pitch de Apresentação (vídeo)]()
+6DSM🎤 [Pitch de Apresentação (vídeo)]()
+
 
 
 
